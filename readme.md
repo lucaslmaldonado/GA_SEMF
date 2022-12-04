@@ -2,7 +2,7 @@
 
 Este trabalho foi desenvolvido para a disciplina F 887: Física Nuclear ministrada pelo Prof. José Augusto Chinellato no Intituto de Física Gleb Wataghin da Unicamp.
 
-Nosso objetivo é utilizar dados experimentais da energia de ligação de núcleos para encontrar os coeficientes da fórmula semi-empírica de massa através de um algoritmo genético. Os dados utilizados aqui são do banco de dados [Nuclear structure and decay data (NuDat)](https://www.nndc.bnl.gov/nudat3/) oferecido pelo National Nuclear Data Center.
+Nosso objetivo é utilizar dados experimentais da energia de ligação de núcleos para encontrar os coeficientes da fórmula semi-empírica de massa através de um algoritmo genético. Os dados utilizados aqui são do banco de dados [Nuclear structure and decay data (NuDat)](https://www.nndc.bnl.gov/nudat3/) oferecido pelo National Nuclear Data Center. Uma descrição mais detalhada deste trabalho pode ser encontrada neste [pdf](./Determinacao_coeficientes_fsem_ag.pdf).
 
 ## Intruções e requisitos
 
